@@ -22,5 +22,7 @@ This app's objective is to assist users to manage their health and fitness by an
 
 <img src="https://i.imgur.com/gMAX9TT.png" width="300"> <img src="https://i.imgur.com/7hu1JIy.jpg" width="300"> <img src="https://imgur.com/Kwtlaer.jpg" width="300">
 <img src="https://imgur.com/7WE810E.jpg" width="300"> <img src="https://i.imgur.com/TtUJ6i2.jpg" width="300"> <img src="https://i.imgur.com/iE7NMEe.jpg" width="300">
-<img src="https://imgur.com/E9NmJJC.jpg" width="300"><img src="https://i.imgur.com/gN4h1SI.jpg" width="300">
+<img src="https://imgur.com/E9NmJJC.jpg" width="300"><img src="https://i.imgur.com/gN4h1SI.jpg" width="300"><img src="https://imgur.com/r8oRmvZ" width="300">
+<img src="https://imgur.com/qbEefxb" width="300"><img src="https://imgur.com/d5Nx7D0" width="300">
+
 
